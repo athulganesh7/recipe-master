@@ -7,6 +7,10 @@ const Landing = () => {
         <h1>Landing Page</h1>
         <p>Welcome to the landing page!</p>
         <Link to="/home">Go to Home</Link>
+
+        <p>our project
+        
+        </p>
     
     </>
   )
